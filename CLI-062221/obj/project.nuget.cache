@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "d39Y1nr9LZ0vzMwGvduUOLLcFkTjnrBvVBqsymp1wqGAMCscMtUYvkRC8bPNbYeM3LGIKLJhSiw7V6ujAsMvqQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PFahey\\Nelnet-Galvanize\\C-CLI-062221\\CLI-062221\\CLI-062221.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PFahey\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
